@@ -1,0 +1,120 @@
+SYSTEM REPORT 2026-02-27T00:14:46+00:00
+------
+ 00:14:46 up  1:22,  1 user,  load average: 0.01, 0.04, 0.00
+               total        used        free      shared  buff/cache   available
+Mem:           3.3Gi       352Mi       2.7Gi       5.2Mi       422Mi       3.0Gi
+Swap:          2.7Gi          0B       2.7Gi
+Filesystem                         Size  Used Avail Use% Mounted on
+tmpfs                              339M  1.4M  337M   1% /run
+efivarfs                           256K   14K  243K   6% /sys/firmware/efi/efivars
+/dev/mapper/ubuntu--vg-ubuntu--lv   15G  6.2G  7.3G  46% /
+tmpfs                              1.7G     0  1.7G   0% /dev/shm
+tmpfs                              5.0M     0  5.0M   0% /run/lock
+tmpfs                              1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs                              1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs                              1.7G     0  1.7G   0% /tmp
+/dev/vda2                          2.0G  135M  1.7G   8% /boot
+/dev/vda1                          1.1G  6.6M  1.1G   1% /boot/efi
+tmpfs                              1.0M     0  1.0M   0% /run/credentials/systemd-networkd.service
+tmpfs                              1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyAMA0.service
+tmpfs                              339M  8.0K  339M   1% /run/user/1000
+tmpfs                              1.0M     0  1.0M   0% /run/credentials/getty@tty6.service
+tmpfs                              1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+------
+
+SYSTEM REPORT 2026-02-27T00:15:01+00:00
+------
+ 00:15:01 up  1:22,  1 user,  load average: 0.01, 0.03, 0.00
+               total        used        free      shared  buff/cache   available
+Mem:           3.3Gi       353Mi       2.7Gi       5.2Mi       422Mi       3.0Gi
+Swap:          2.7Gi          0B       2.7Gi
+Filesystem                         Size  Used Avail Use% Mounted on
+tmpfs                              339M  1.4M  337M   1% /run
+efivarfs                           256K   14K  243K   6% /sys/firmware/efi/efivars
+/dev/mapper/ubuntu--vg-ubuntu--lv   15G  6.2G  7.3G  46% /
+tmpfs                              1.7G     0  1.7G   0% /dev/shm
+tmpfs                              5.0M     0  5.0M   0% /run/lock
+tmpfs                              1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs                              1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs                              1.7G     0  1.7G   0% /tmp
+/dev/vda2                          2.0G  135M  1.7G   8% /boot
+/dev/vda1                          1.1G  6.6M  1.1G   1% /boot/efi
+tmpfs                              1.0M     0  1.0M   0% /run/credentials/systemd-networkd.service
+tmpfs                              1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyAMA0.service
+tmpfs                              339M  8.0K  339M   1% /run/user/1000
+tmpfs                              1.0M     0  1.0M   0% /run/credentials/getty@tty6.service
+tmpfs                              1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+------
+
+SYSTEM REPORT 2026-02-27T00:16:01+00:00
+------
+ 00:16:01 up  1:23,  1 user,  load average: 0.08, 0.05, 0.01
+               total        used        free      shared  buff/cache   available
+Mem:           3.3Gi       359Mi       2.7Gi       5.2Mi       422Mi       3.0Gi
+Swap:          2.7Gi          0B       2.7Gi
+Filesystem                         Size  Used Avail Use% Mounted on
+tmpfs                              339M  1.4M  337M   1% /run
+efivarfs                           256K   14K  243K   6% /sys/firmware/efi/efivars
+/dev/mapper/ubuntu--vg-ubuntu--lv   15G  6.2G  7.3G  46% /
+tmpfs                              1.7G     0  1.7G   0% /dev/shm
+tmpfs                              5.0M     0  5.0M   0% /run/lock
+tmpfs                              1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs                              1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs                              1.7G     0  1.7G   0% /tmp
+/dev/vda2                          2.0G  135M  1.7G   8% /boot
+/dev/vda1                          1.1G  6.6M  1.1G   1% /boot/efi
+tmpfs                              1.0M     0  1.0M   0% /run/credentials/systemd-networkd.service
+tmpfs                              1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyAMA0.service
+tmpfs                              339M  8.0K  339M   1% /run/user/1000
+tmpfs                              1.0M     0  1.0M   0% /run/credentials/getty@tty6.service
+tmpfs                              1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+------
+
+SYSTEM REPORT 2026-02-27T00:17:01+00:00
+------
+ 00:17:01 up  1:24,  1 user,  load average: 0.12, 0.07, 0.01
+               total        used        free      shared  buff/cache   available
+Mem:           3.3Gi       359Mi       2.7Gi       5.2Mi       422Mi       3.0Gi
+Swap:          2.7Gi          0B       2.7Gi
+Filesystem                         Size  Used Avail Use% Mounted on
+tmpfs                              339M  1.4M  337M   1% /run
+efivarfs                           256K   14K  243K   6% /sys/firmware/efi/efivars
+/dev/mapper/ubuntu--vg-ubuntu--lv   15G  6.2G  7.3G  46% /
+tmpfs                              1.7G     0  1.7G   0% /dev/shm
+tmpfs                              5.0M     0  5.0M   0% /run/lock
+tmpfs                              1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs                              1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs                              1.7G     0  1.7G   0% /tmp
+/dev/vda2                          2.0G  135M  1.7G   8% /boot
+/dev/vda1                          1.1G  6.6M  1.1G   1% /boot/efi
+tmpfs                              1.0M     0  1.0M   0% /run/credentials/systemd-networkd.service
+tmpfs                              1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyAMA0.service
+tmpfs                              339M  8.0K  339M   1% /run/user/1000
+tmpfs                              1.0M     0  1.0M   0% /run/credentials/getty@tty6.service
+tmpfs                              1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+------
+
+SYSTEM REPORT 2026-02-27T00:18:01+00:00
+------
+ 00:18:01 up  1:25,  1 user,  load average: 0.10, 0.07, 0.01
+               total        used        free      shared  buff/cache   available
+Mem:           3.3Gi       353Mi       2.7Gi       5.2Mi       422Mi       3.0Gi
+Swap:          2.7Gi          0B       2.7Gi
+Filesystem                         Size  Used Avail Use% Mounted on
+tmpfs                              339M  1.4M  337M   1% /run
+efivarfs                           256K   14K  243K   6% /sys/firmware/efi/efivars
+/dev/mapper/ubuntu--vg-ubuntu--lv   15G  6.2G  7.3G  46% /
+tmpfs                              1.7G     0  1.7G   0% /dev/shm
+tmpfs                              5.0M     0  5.0M   0% /run/lock
+tmpfs                              1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs                              1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs                              1.7G     0  1.7G   0% /tmp
+/dev/vda2                          2.0G  135M  1.7G   8% /boot
+/dev/vda1                          1.1G  6.6M  1.1G   1% /boot/efi
+tmpfs                              1.0M     0  1.0M   0% /run/credentials/systemd-networkd.service
+tmpfs                              1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyAMA0.service
+tmpfs                              339M  8.0K  339M   1% /run/user/1000
+tmpfs                              1.0M     0  1.0M   0% /run/credentials/getty@tty6.service
+tmpfs                              1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+------
+
