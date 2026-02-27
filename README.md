@@ -1,4 +1,4 @@
-#IT340 Lab 6 VM
+# IT340 Lab 6 VM
 
 VM Name: dev-onboarding-lg332
 username: dev-alice
